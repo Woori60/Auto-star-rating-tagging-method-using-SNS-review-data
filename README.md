@@ -29,5 +29,7 @@ Recommendation Technique:
 - Convolutional Neural Network
   : Look our poster!
 
-
+Final Model:
+[model 1] accuracy : 79%
+[model 2] accuracy : 70%
   
